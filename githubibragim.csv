@@ -1,0 +1,31 @@
+Name,Description,Language,Stars
+Autopilot-TensorFlow,A TensorFlow implementation of this Nvidia paper: https://arxiv.org/pdf/1604.07316.pdf with some changes,Python,1
+MultiNet,Real-time Joint Semantic Reasoning for Autonomous Driving,Python,1
+self-driving-car,The Udacity open source self-driving car project,Jupyter Notebook,1
+AutonomousVehiclePaper,无人驾驶相关论文速递,unknown,1
+AutonomousDrivingCookbook,"Scenarios, tutorials and demos for Autonomous Driving",Jupyter Notebook,1
+graph-cut-ransac,"The Graph-Cut RANSAC algorithm proposed in paper: Daniel Barath and Jiri Matas; Graph-Cut RANSAC, Conference on Computer Vision and Pattern Recognition, 2018. It is available at http://openaccess.t…",C++,0
+multi-x,"The Multi-X algorithm proposed in paper: Daniel Barath and Jiri Matas, Multi-class model fitting by energy-minimization and mode-seeking, European Conference on Computer Vision, 2018. It is availab…",C++,0
+tensorpack,"A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility",Python,0
+transferlearning,Everything about Transfer Learning and Domain Adaptation--迁移学习,Python,0
+handong1587.github.io,unknown,CSS,0
+awsome-domain-adaptation,A collection of AWESOME things about domian adaptation,unknown,0
+gco-v3.0,Multi-label optimization library by Olga Veksler and Andrew Delong,C++,0
+visda-2018-public,unknown,Python,0
+ResNeXt,Implementation of a classification framework from the paper Aggregated Residual Transformations for Deep Neural Networks,Lua,0
+Self-Driving-Car-,A End to End CNN Model which predicts the steering wheel angle based on the video/image,Jupyter Notebook,0
+Detectron,"FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",Python,1
+pytorch-CycleGAN-and-pix2pix,"Image-to-image translation in PyTorch (e.g., horse2zebra, edges2cats, and more)",Python,1
+admm-elastic,ADMM ⊇ Projective Dynamics: Fast Simulation of Hyperelastic Models with Dynamic Constraints,C++,0
+SRN,Side-output Residual Network for Object Symmetry Detection in the Wild,MATLAB,0
+SymmetryViaRegistration,Mirror-Symmetry Detection via Registration,MATLAB,0
+AzureChestXRay,Intelligent disease prediction system that can help radiologists review Chest X-rays more efficiently.,HTML,0
+pix2pix,Image-to-image translation with conditional adversarial nets,Lua,0
+BDD_Driving_Model,unknown,Python,0
+densecap,Dense image captioning in Torch,Jupyter Notebook,0
+pytorch-HED,Pytorch implementation of HED,Python,0
+ColorSymDetect,Wavelet-based Reflection Symmetry Detection via Textural and Color Histograms (ICCV 2017),MATLAB,0
+deepedge,deep learning edge detector based on U-net and BSDS 500 dataset,Jupyter Notebook,0
+pix2pix-pytorch,"PyTorch implementation of ""Image-to-Image Translation Using Conditional Adversarial Networks"".",Python,0
+mnist,Classify MNIST digits using Convolutional Neural Networks,Jupyter Notebook,0
+Noisy-Labels-Problem-Collection,This is a collection of Papers and Codes for Noisy Labels Problem.,Jupyter Notebook,0
